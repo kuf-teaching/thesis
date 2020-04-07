@@ -1,4 +1,4 @@
 # My great thesis
 
-Author: Konrad Förstner
+Author: Konrad U. Förstner
 
